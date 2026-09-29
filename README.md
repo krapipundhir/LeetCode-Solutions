@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
