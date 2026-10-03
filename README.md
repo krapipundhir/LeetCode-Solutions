@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
