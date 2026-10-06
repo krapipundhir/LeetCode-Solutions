@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
