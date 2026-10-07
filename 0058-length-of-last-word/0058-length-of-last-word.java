@@ -4,11 +4,15 @@ class Solution {
         char[] charS =s.toCharArray();
         int count=0;
         for(int i=charS.length-1;i>=0;i--){
-            if(charS[i]!=' ')
-            count++;
-            else
+            if(charS[i]== ' '){
             break;
-            }   
+            }
+            else{
+            count++;
+            }
+        }   
         return count;
     }
 }
+
+   
