@@ -1,4 +1,5 @@
 class Solution {
+    
     public static String[] keyPad = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
     public List<String> letterCombinations(String digits) {
@@ -25,7 +26,7 @@ class Solution {
 
         for (int i = 0; i < map.length(); i++) {
             printCombination(digits, idx + 1, combination + map.charAt(i), ans);
-            
+
         }
         
     }
