@@ -9,12 +9,12 @@ class Solution {
             return ans;
         }
         
-        printCombination(digits, 0, "", ans);
+        Combination(digits, 0, "", ans);
         
         return ans;
     }
 
-    public static void printCombination(String digits, int idx, String combination, List<String> ans) {
+    public static void Combination(String digits, int idx, String combination, List<String> ans) {
 
         if (idx == digits.length()) {
             ans.add(combination);
@@ -25,7 +25,7 @@ class Solution {
         String map = keyPad[current - '0'];
 
         for (int i = 0; i < map.length(); i++) {
-            printCombination(digits, idx + 1, combination + map.charAt(i), ans);
+            Combination(digits, idx + 1, combination + map.charAt(i), ans);
 
         }
         
