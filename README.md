@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
