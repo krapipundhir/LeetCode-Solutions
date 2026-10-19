@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -104,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
