@@ -3,8 +3,7 @@ class Solution {
         String result = "";
         for(int i=0; i< address.length(); i++) {
             if(address.charAt(i)=='.'){
-                result +="[.]";
-            }
+                result +="[.]";} 
             else {
             result += address.charAt(i);
             }
