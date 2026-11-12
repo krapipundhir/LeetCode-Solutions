@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [1389-create-target-array-in-the-given-order](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 ## Number Theory
 |  |
 | ------- |
