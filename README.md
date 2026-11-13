@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1079-letter-tile-possibilities](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1108-defanging-an-ip-address](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Hash Table
 |  |
 | ------- |
