@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1389-create-target-array-in-the-given-order](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2574-left-and-right-sum-differences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
