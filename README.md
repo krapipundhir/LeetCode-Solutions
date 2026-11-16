@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [3525-find-x-value-of-array-ii](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
 |  |
