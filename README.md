@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2490-circular-sentence](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2490-circular-sentence) |
 ## Hash Table
 |  |
 | ------- |
