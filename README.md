@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1108-defanging-an-ip-address](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2490-circular-sentence](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2490-circular-sentence) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1079-letter-tile-possibilities](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1079-letter-tile-possibilities) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1079-letter-tile-possibilities](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1079-letter-tile-possibilities) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
