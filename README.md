@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2490-circular-sentence](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2490-circular-sentence) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
