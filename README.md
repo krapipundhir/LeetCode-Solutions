@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1079-letter-tile-possibilities](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/krapipundhir/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
